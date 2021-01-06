@@ -1,0 +1,2 @@
+Projekt bazy danych szpitalu. W bazie znajdują się tabele z danymi o lekarzach, pacjentach, oddziałach w szpitalu, o historii leczenia pacjenta i o jego pobycie w szpitalu. Zrobiłem kilka zapytań, które ułatwiły by pracę personelu, jak i sama baza danych.
+Mateusz Grześ
